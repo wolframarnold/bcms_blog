@@ -4,12 +4,12 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{bcms_blog}
-  s.version = "1.1.0"
+  s.name = %q{wa_bcms_blog}
+  s.version = "1.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["BrowserMedia"]
-  s.date = %q{2010-05-24}
+  s.authors = ["BrowserMedia", "Wolfram Arnold"]
+  s.date = %q{2010-06-20}
   s.description = %q{The Blog Module for BrowserCMS}
   s.email = %q{github@browsermedia.com}
   s.extra_rdoc_files = [
